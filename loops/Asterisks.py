@@ -3,3 +3,4 @@ for i in range(24):
     print("* ")
   else:
     print("* " * (i+1))
+ 
