@@ -1,4 +1,4 @@
-#I did this project only with the basis I've learned from my course so far.
+# I did this project only with the basis I've learned from my course so far.
 
 import random
 
